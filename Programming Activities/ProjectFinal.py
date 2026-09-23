@@ -1,4 +1,9 @@
 """
+# Team Member Names: Josh, Daniel, Ts
+# Purpose of Code: Toggle Rotation of a servo based on a switch input
+# Date started: 9/23/2026
+# Date of Last Update: 9/23/2026
+# Explanation of AI: We used AI to write the code.
 Humidity-controlled vent system
 Board:    Arduino Nano ESP32
 Language: MicroPython (single file, runs fully offline)

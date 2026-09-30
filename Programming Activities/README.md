@@ -3,3 +3,4 @@
 9/14/26 Uploaded FYRELab.py which is the code for our alarm prototype.
 9/16/26 Uploaded Servo Button program which is the code for our servo button system. Uploaded Moisture Sensor program which is the code for our automated moisture sensing system. The csv files with measurments were uploaded as well. Uploaded the Google Sheets file (.xlsx) containing the data.
 9/23/26 Uploaded project code.
+9/30/26 Uploaded final project code titled "ProjectStepper.py" that includes changes to use a stepper motor instead of DC. 
